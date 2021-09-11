@@ -16,4 +16,5 @@ module.exports = {
     },
     "gatsby-plugin-mdx"
   ],
+  pathPrefix: "/gatsby-tutorial"
 };
